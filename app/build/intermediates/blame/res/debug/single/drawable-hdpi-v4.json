@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/info_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dropbox.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/dropbox.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_drawer.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/google_drive_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/google_drive_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/custom_btn_beige.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/custom_btn_beige.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/border_dark.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/border_dark.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sample_image.jpg",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/sample_image.jpg"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/border.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-hdpi/border.xml"
+    }
+]

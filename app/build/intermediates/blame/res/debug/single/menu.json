@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/menu/activity_main1.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/menu/activity_main1.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/menu/main.xml"
+    }
+]

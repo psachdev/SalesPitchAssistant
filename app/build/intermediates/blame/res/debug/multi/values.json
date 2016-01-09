@@ -1,0 +1,665 @@
+[
+    {
+        "outputFile": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 56,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 56,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 43,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 43,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 52,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 52,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 50,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 50,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 51,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 51,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 61,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 61,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 46,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 46,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 50,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 55,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 55,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 46,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 46,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 56,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 56,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 55,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 55,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 51,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 51,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 62,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 62,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 55,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 55,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 47,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 47,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 45,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 45,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 57,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 55,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endColumn": 52,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 52,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 42,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/res.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 8,
+                        "startOffset": 27,
+                        "endColumn": 46,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 42,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/res.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 75,
+                        "endColumn": 46,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 42,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/res.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 8,
+                        "startOffset": 123,
+                        "endColumn": 46,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 43,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 43,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 51,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 51,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1730
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1735,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 83,
+                    "endOffset": 1974
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 84,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1979,
+                    "endLine": 51,
+                    "endColumn": 8,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2462,
+                        "endLine": 68,
+                        "endColumn": 8,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endLine": 60,
+                    "endColumn": 8,
+                    "endOffset": 3140
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1968,
+                        "endLine": 55,
+                        "endColumn": 8,
+                        "endOffset": 2456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3145,
+                    "endLine": 72,
+                    "endColumn": 11,
+                    "endOffset": 3745
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1362,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3750,
+                    "endLine": 85,
+                    "endColumn": 10,
+                    "endOffset": 4328
+                },
+                "from": {
+                    "file": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 8,
+                        "startOffset": 764,
+                        "endLine": 32,
+                        "endColumn": 10,
+                        "endOffset": 1354
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/custom_info.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/custom_info.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/interaction_row.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/interaction_row.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/custom.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/custom.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/activity_view_slides.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/activity_view_slides.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/activity_main1.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/activity_main1.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/slides_menu.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/slides_menu.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/layout/slides_list.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/layout/slides_list.xml"
+    }
+]

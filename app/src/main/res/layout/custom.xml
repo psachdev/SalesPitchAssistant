@@ -1,0 +1,110 @@
+<!-- -
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+ 
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp" />
+ 
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF" 
+        android:layout_toRightOf="@+id/image"/>/
+ 
+     <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="100px"
+        android:layout_height="wrap_content"
+        android:text="YES"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/image"
+        />
+ 
+</RelativeLayout>
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+ 
+    <RelativeLayout 
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+ 
+        <ImageView
+        android:id="@+id/dialogimage"
+        android:layout_margin="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="5dp" />
+ <!-- 
+        <TextView
+            android:id="@+id/title"
+            android:layout_toRightOf="@+id/dialogimage"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:paddingRight="8dip"
+            android:paddingLeft="8dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+ -->
+        <TextView
+            android:id="@+id/dialogtext"
+            android:padding="5dip"
+            android:layout_margin="10dp"
+             android:textStyle="bold"
+             android:textSize="16sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+ <!-- 
+    <LinearLayout 
+        android:id="@+id/content"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+ 
+        <TextView
+            android:id="@+id/dialogtext"
+            android:padding="5dip"
+            android:layout_margin="10dp"
+             android:textStyle="bold"
+             android:textSize="16sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+ 
+    </LinearLayout>
+ -->
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+ 
+        
+        <Button 
+            android:id="@+id/positiveButton"
+            android:layout_margin="10dp"
+            android:layout_width="0dip"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            style="@style/btnStyleBeige"/>
+ 
+        <Button 
+            android:id="@+id/negativeButton"
+            android:layout_margin="10dp"
+            android:layout_width="0dip"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            style="@style/btnStyleBeige"/>
+ 
+    </LinearLayout>
+ 
+</LinearLayout>

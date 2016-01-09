@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   <item android:id="@+id/userid_label"    
+         android:showAsAction="ifRoom|withText" />
+   <item android:id="@+id/sortby_creationDate"    
+         android:title="Sort by Creation Date" />
+   <item android:id="@+id/sortby_views"
+         android:title="Sort by Views" />
+    <item android:id="@+id/sortby_ratings" 
+         android:title="Sort by Ratings" />
+    <item android:id="@+id/sortby_feedback"
+         android:title="Sort by Feedback" />
+</menu>

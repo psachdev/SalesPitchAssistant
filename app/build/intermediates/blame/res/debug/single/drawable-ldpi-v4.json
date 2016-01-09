@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/slidedeck1.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/slidedeck1.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/color_66b2ff.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/color_66b2ff.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/help_i_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/help_i_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_icon_white.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/star_icon_white.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/contacts_30_30.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/contacts_30_30.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/white_line_thin.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/white_line_thin.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/box_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/box_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/cloud_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/cloud_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/white_line.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/white_line.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/play_icon_10x10.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/play_icon_10x10.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/thumbslide1.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/thumbslide1.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/sync_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/sync_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/home_selected.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/home_selected.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_drawer.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/oracle_logo_50_50.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/oracle_logo_50_50.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/home_unselected.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/home_unselected.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/logout_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/logout_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/slide1.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/slide1.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/home_30_30.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/home_30_30.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/fav_unselected.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/fav_unselected.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/thumbslide2.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/thumbslide2.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_icon_30x30.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/star_icon_30x30.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/slide2.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/slide2.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/upload_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/upload_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/refresh_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/refresh_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/refresh_icon_new.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/refresh_icon_new.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/refresh.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/refresh.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/fav_selected.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/fav_selected.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/favorite_coloring.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/favorite_coloring.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/slide3.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/slide3.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/oracle_logo_30_30.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/oracle_logo_30_30.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/thumbslide3.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/thumbslide3.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_10_10_yellow.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/star_10_10_yellow.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/lightbox_app_architecture.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/lightbox_app_architecture.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/search_icon.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/zoom_down.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/zoom_down.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_icon_10x10.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/drawable-ldpi/star_icon_10x10.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/anim_down.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/anim_down.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/search_down.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/search_down.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/anim_up.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/anim_up.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/anim_left.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/anim_left.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/search_up.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/search_up.xml"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/build/intermediates/res/merged/debug/anim/anim_right.xml",
+        "source": "/Users/prasachd/AndroidStudioProjects/PPTViewer/app/src/main/res/anim/anim_right.xml"
+    }
+]

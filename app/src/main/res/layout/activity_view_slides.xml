@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<!-- 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    -->
+    
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<!-- 
+    <LinearLayout
+        android:id="@+id/left_toolbar"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/top_toolbar"
+        android:background="#000000"
+        android:orientation="vertical">
+        
+        <ImageView
+            android:id="@+id/homeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/home_30_30"/>
+    </LinearLayout>
+    NOTE : Removed from Center Pane
+    android:layout_toRightOf="@+id/left_toolbar"
+ -->
+    <LinearLayout
+        android:id="@+id/center_pane"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:background="#3333FF"        
+        android:orientation="vertical">
+        
+      <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/slide1" />      
+    </LinearLayout>
+    
+    <!-- /* SLIDE UP MENU */-->
+    <LinearLayout android:id="@+id/slider"
+      			  android:layout_width="match_parent"
+      			  android:layout_height="100dp"
+      			  android:layout_alignParentBottom="true"
+      			  android:layout_centerInParent="true"  
+        		  android:orientation="vertical"
+        		  android:background="#000000">
+         <HorizontalScrollView
+    	    android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:id="@+id/horizontalview" 
+        	android:layout_below="@+id/image">
+        <LinearLayout
+            android:id="@+id/slide_gallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">        
+         </LinearLayout>
+    </HorizontalScrollView>    
+       
+    </LinearLayout>
+ 
+</RelativeLayout>
+
+
